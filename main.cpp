@@ -14,6 +14,7 @@ int main() // funksioni kryesor
 {          // cdo nje funksion duhet te ket kllape e hapur e madhe
 
   // C++ ka fjal te rezvuara, zakonisht prej IDE jane me ngjyra ()
+  // Ket e shtova prej GithUb
 
   cout << "Hello World!\n";
 
